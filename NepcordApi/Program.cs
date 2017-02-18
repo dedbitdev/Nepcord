@@ -217,8 +217,8 @@ namespace NepcordApi
         {
             using (StreamReader r = new StreamReader("secret.json"))
             {
-                string json = r.ReadToEnd();
-                dynamic ds = JsonConvert.DeserializeObject(json);
+                string jsoninput = r.ReadToEnd();
+                dynamic ds = JsonConvert.DeserializeObject(jsoninput);
                 return ds.token;
             }
         }
