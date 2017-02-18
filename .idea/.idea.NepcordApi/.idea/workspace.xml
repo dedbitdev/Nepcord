@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="158f74c0-2414-4e0c-9ea3-e024cb456608" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NepcordApi/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3981">
+              <caret line="350" column="29" lean-forward="false" selection-start-line="350" selection-start-column="29" selection-end-line="350" selection-end-column="29" />
+              <folding>
+                <marker date="1487384898284" expanded="true" signature="6:502" ph="..." />
+                <marker date="1487384898284" expanded="true" signature="528:984" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="564:982" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="640:976" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="731:813" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="830:902" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="1017:1995" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="1024:1153" ph="/// Custom serializer (Newtonsoft.Json) for RestSharp. Must be applied on every RestRequest. ... " />
+                <marker date="1487384898284" expanded="true" signature="1206:1993" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="1221:1371" ph="/// Initializes a new instance of the &lt;see cref=&quot;T:NepcordApi.serializers.RemcordJsonSerializer&quot;/&gt; class. ... " />
+                <marker date="1487384898284" expanded="true" signature="1410:1476" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="1486:1677" ph="/// Serializes the specified object. ... " />
+                <marker date="1487384898284" expanded="true" signature="1721:1794" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="2017:2871" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="2024:2138" ph="/// Experimental - a attempt at creating a user-friendly DiscordClient class. ... " />
+                <marker date="1487384898284" expanded="true" signature="2169:2869" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="2297:2483" ph="/// Updates the current authentication set. ... " />
+                <marker date="1487384898284" expanded="true" signature="2563:2629" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="2638:2768" ph="/// Initializes a new instance of the &lt;see cref=&quot;T:NepcordApi.DiscordClient&quot;/&gt; class. ... " />
+                <marker date="1487384898284" expanded="true" signature="2799:2863" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="2898:6542" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="2905:2975" ph="/// Base class for user messages. ... " />
+                <marker date="1487384898284" expanded="true" signature="3000:3013" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="3018:3109" ph="/// Current not used, just the same as MessagePayload. ... " />
+                <marker date="1487384898284" expanded="true" signature="3148:3225" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="3230:3296" ph="/// Remcord REST API manager. ... " />
+                <marker date="1487384898284" expanded="true" signature="3325:4977" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="3340:3715" ph="/// Sends a POST request using SendRequest. ... " />
+                <marker date="1487384898284" expanded="true" signature="3924:4365" ph="/// Sends a request using the specified method through REST. ... " />
+                <marker date="1487384898284" expanded="true" signature="4506:4971" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="4982:5096" ph="/// A message payload sent from Discord, usually with a MESSAGE_CREATE event. ... " />
+                <marker date="1487384898284" expanded="true" signature="5128:5218" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="5223:5313" ph="/// A static class for sending messages to a channel. ... " />
+                <marker date="1487384898284" expanded="true" signature="5354:6540" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="5369:5590" ph="/// Sends a message to a specified channel. ... " />
+                <marker date="1487384898284" expanded="true" signature="5664:6004" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="6089:6534" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="6394:6522" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="6569:6747" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="6576:6665" ph="/// A class for storing Discord authentication data. ... " />
+                <marker date="1487384898284" expanded="true" signature="6704:6745" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="6769:21069" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="6776:6841" ph="/// Temporary token storage. ... " />
+                <marker date="1487384898284" expanded="true" signature="6872:7052" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="6887:6946" ph="/// The token. ... " />
+                <marker date="1487384898284" expanded="true" signature="7057:7130" ph="/// All operation codes for Discord. ... " />
+                <marker date="1487384898284" expanded="true" signature="7147:7462" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="7467:7540" ph="/// A list of Discord API endpoints. ... " />
+                <marker date="1487384898284" expanded="true" signature="7579:7686" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="7691:7749" ph="/// A normal payload. ... " />
+                <marker date="1487384898284" expanded="true" signature="7777:7886" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="7891:7965" ph="/// A user message sent to a channel. ... " />
+                <marker date="1487384898284" expanded="true" signature="8001:8357" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="8362:8448" ph="/// Rem Identify Payload Properties object class. ... " />
+                <marker date="1487384898284" expanded="true" signature="8470:8849" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="8854:8930" ph="/// Rem Identify Payload content class. ... " />
+                <marker date="1487384898284" expanded="true" signature="8951:9126" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="8966:9027" ph="/* public bool compress; ... */" />
+                <marker date="1487384898284" expanded="true" signature="9131:9189" ph="/// The main program. ... " />
+                <marker date="1487384898284" expanded="true" signature="9223:20292" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="9238:9326" ph="/// A list of all OpCodes and descriptions. ... " />
+                <marker date="1487384898284" expanded="true" signature="9418:10209" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="10219:10299" ph="/// The current heartbeat sequence. ... " />
+                <marker date="1487384898284" expanded="true" signature="10343:10451" ph="/// The timer, to send out a heartbeat with a defined interval. ... " />
+                <marker date="1487384898284" expanded="true" signature="10518:10588" ph="/// The active WebSocket. ... " />
+                <marker date="1487384898284" expanded="true" signature="10632:10712" ph="/// Are we running in verbose mode? ... " />
+                <marker date="1487384898284" expanded="true" signature="10761:10835" ph="/// The active SocketManager. ... " />
+                <marker date="1487384898284" expanded="true" signature="10883:10989" ph="/// Trying to parse the heartbeat interval sent from Discord. ... " />
+                <marker date="1487384898284" expanded="true" signature="11032:11126" ph="/// Have recieved the Hello message from Discord. ... " />
+                <marker date="1487384898284" expanded="true" signature="11181:11463" ph="/// Sends a heartbeat through the default WebSocket. ... " />
+                <marker date="1487384898284" expanded="true" signature="11532:11766" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="11775:11867" ph="/// The response payload from Discord. (Reused) ... " />
+                <marker date="1487384898284" expanded="true" signature="11915:12110" ph="/// Called when the Discord socket is closed. ... " />
+                <marker date="1487384898284" expanded="true" signature="12187:12373" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="12418:12577" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="12586:12673" ph="/// All legitimate verbose mode arguments. ... " />
+                <marker date="1487384898284" expanded="true" signature="12759:12819" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="12829:13019" ph="/// The entry point of the program, where the program control starts and ends. ... " />
+                <marker date="1487384898284" expanded="true" signature="13066:13510" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="13092:13331" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="13166:13317" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="13376:13477" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="13519:13738" ph="/// Handles an incoming socket message from Discord. ... " />
+                <marker date="1487384898284" expanded="true" signature="13820:18554" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="13856:18448" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="14182:14592" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="14665:14788" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="14939:15122" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="15206:18226" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="15437:16378" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="16432:17070" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="17177:17824" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="17406:17623" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="17652:17801" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="17915:18208" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="18300:18434" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="18465:18544" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="18563:18712" ph="/// Converts the string to sentence case. ... " />
+                <marker date="1487384898284" expanded="true" signature="18772:19135" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="18795:18965" ph="/* var lc = Input.ToLower(); ... */" />
+                <marker date="1487384898284" expanded="true" signature="19144:19267" ph="/// Connects to Discord and sets up the heartbeat manager and payload manager. ... " />
+                <marker date="1487384898284" expanded="true" signature="19304:20286" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="20297:20380" ph="/// WebSocket extensions for sending payloads. ... " />
+                <marker date="1487384898284" expanded="true" signature="20414:21067" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="20429:20620" ph="/// Sends the payload. ... " />
+                <marker date="1487384898284" expanded="true" signature="20719:21061" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="20917:21020" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="21102:22921" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="21109:21192" ph="/// Discord API info such as the API base URL. ... " />
+                <marker date="1487384898284" expanded="true" signature="21217:21404" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="21232:21325" ph="/// Discord's base URL for REST API connections. ... " />
+                <marker date="1487384898284" expanded="true" signature="21409:21479" ph="/// Represents a Discord gateway. ... " />
+                <marker date="1487384898284" expanded="true" signature="21497:21606" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="21512:21573" ph="/// Gateway URL. ... " />
+                <marker date="1487384898284" expanded="true" signature="21611:21715" ph="/// A connection manager, for getting a gateway through WebRequest. ... " />
+                <marker date="1487384898284" expanded="true" signature="21743:22357" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="21758:21883" ph="/// Gets a new Gateway from Discord. ... " />
+                <marker date="1487384898284" expanded="true" signature="21926:22351" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="22362:22459" ph="/// A socket manager to create WebSockets with the base URL. ... " />
+                <marker date="1487384898284" expanded="true" signature="22483:22919" ph="{...}" />
+                <marker date="1487384898284" expanded="true" signature="22498:22558" ph="/// The socket. ... " />
+                <marker date="1487384898284" expanded="true" signature="22593:22731" ph="/// Creates a Socket. ... " />
+                <marker date="1487384898284" expanded="true" signature="22771:22913" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/NepcordApi/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NepcordApi (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NepcordApi" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="158f74c0-2414-4e0c-9ea3-e024cb456608" name="Default" comment="" />
+      <created>1487384683666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487384683666</updated>
+      <workItem from="1487384686549" duration="229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="229000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15972222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/NepcordApi/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3981">
+          <caret line="350" column="29" lean-forward="false" selection-start-line="350" selection-start-column="29" selection-end-line="350" selection-end-column="29" />
+          <folding>
+            <marker date="1487384898284" expanded="true" signature="6:502" ph="..." />
+            <marker date="1487384898284" expanded="true" signature="528:984" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="564:982" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="640:976" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="731:813" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="830:902" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="1017:1995" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="1024:1153" ph="/// Custom serializer (Newtonsoft.Json) for RestSharp. Must be applied on every RestRequest. ... " />
+            <marker date="1487384898284" expanded="true" signature="1206:1993" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="1221:1371" ph="/// Initializes a new instance of the &lt;see cref=&quot;T:NepcordApi.serializers.RemcordJsonSerializer&quot;/&gt; class. ... " />
+            <marker date="1487384898284" expanded="true" signature="1410:1476" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="1486:1677" ph="/// Serializes the specified object. ... " />
+            <marker date="1487384898284" expanded="true" signature="1721:1794" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="2017:2871" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="2024:2138" ph="/// Experimental - a attempt at creating a user-friendly DiscordClient class. ... " />
+            <marker date="1487384898284" expanded="true" signature="2169:2869" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="2297:2483" ph="/// Updates the current authentication set. ... " />
+            <marker date="1487384898284" expanded="true" signature="2563:2629" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="2638:2768" ph="/// Initializes a new instance of the &lt;see cref=&quot;T:NepcordApi.DiscordClient&quot;/&gt; class. ... " />
+            <marker date="1487384898284" expanded="true" signature="2799:2863" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="2898:6542" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="2905:2975" ph="/// Base class for user messages. ... " />
+            <marker date="1487384898284" expanded="true" signature="3000:3013" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="3018:3109" ph="/// Current not used, just the same as MessagePayload. ... " />
+            <marker date="1487384898284" expanded="true" signature="3148:3225" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="3230:3296" ph="/// Remcord REST API manager. ... " />
+            <marker date="1487384898284" expanded="true" signature="3325:4977" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="3340:3715" ph="/// Sends a POST request using SendRequest. ... " />
+            <marker date="1487384898284" expanded="true" signature="3924:4365" ph="/// Sends a request using the specified method through REST. ... " />
+            <marker date="1487384898284" expanded="true" signature="4506:4971" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="4982:5096" ph="/// A message payload sent from Discord, usually with a MESSAGE_CREATE event. ... " />
+            <marker date="1487384898284" expanded="true" signature="5128:5218" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="5223:5313" ph="/// A static class for sending messages to a channel. ... " />
+            <marker date="1487384898284" expanded="true" signature="5354:6540" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="5369:5590" ph="/// Sends a message to a specified channel. ... " />
+            <marker date="1487384898284" expanded="true" signature="5664:6004" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="6089:6534" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="6394:6522" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="6569:6747" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="6576:6665" ph="/// A class for storing Discord authentication data. ... " />
+            <marker date="1487384898284" expanded="true" signature="6704:6745" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="6769:21069" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="6776:6841" ph="/// Temporary token storage. ... " />
+            <marker date="1487384898284" expanded="true" signature="6872:7052" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="6887:6946" ph="/// The token. ... " />
+            <marker date="1487384898284" expanded="true" signature="7057:7130" ph="/// All operation codes for Discord. ... " />
+            <marker date="1487384898284" expanded="true" signature="7147:7462" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="7467:7540" ph="/// A list of Discord API endpoints. ... " />
+            <marker date="1487384898284" expanded="true" signature="7579:7686" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="7691:7749" ph="/// A normal payload. ... " />
+            <marker date="1487384898284" expanded="true" signature="7777:7886" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="7891:7965" ph="/// A user message sent to a channel. ... " />
+            <marker date="1487384898284" expanded="true" signature="8001:8357" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="8362:8448" ph="/// Rem Identify Payload Properties object class. ... " />
+            <marker date="1487384898284" expanded="true" signature="8470:8849" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="8854:8930" ph="/// Rem Identify Payload content class. ... " />
+            <marker date="1487384898284" expanded="true" signature="8951:9126" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="8966:9027" ph="/* public bool compress; ... */" />
+            <marker date="1487384898284" expanded="true" signature="9131:9189" ph="/// The main program. ... " />
+            <marker date="1487384898284" expanded="true" signature="9223:20292" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="9238:9326" ph="/// A list of all OpCodes and descriptions. ... " />
+            <marker date="1487384898284" expanded="true" signature="9418:10209" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="10219:10299" ph="/// The current heartbeat sequence. ... " />
+            <marker date="1487384898284" expanded="true" signature="10343:10451" ph="/// The timer, to send out a heartbeat with a defined interval. ... " />
+            <marker date="1487384898284" expanded="true" signature="10518:10588" ph="/// The active WebSocket. ... " />
+            <marker date="1487384898284" expanded="true" signature="10632:10712" ph="/// Are we running in verbose mode? ... " />
+            <marker date="1487384898284" expanded="true" signature="10761:10835" ph="/// The active SocketManager. ... " />
+            <marker date="1487384898284" expanded="true" signature="10883:10989" ph="/// Trying to parse the heartbeat interval sent from Discord. ... " />
+            <marker date="1487384898284" expanded="true" signature="11032:11126" ph="/// Have recieved the Hello message from Discord. ... " />
+            <marker date="1487384898284" expanded="true" signature="11181:11463" ph="/// Sends a heartbeat through the default WebSocket. ... " />
+            <marker date="1487384898284" expanded="true" signature="11532:11766" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="11775:11867" ph="/// The response payload from Discord. (Reused) ... " />
+            <marker date="1487384898284" expanded="true" signature="11915:12110" ph="/// Called when the Discord socket is closed. ... " />
+            <marker date="1487384898284" expanded="true" signature="12187:12373" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="12418:12577" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="12586:12673" ph="/// All legitimate verbose mode arguments. ... " />
+            <marker date="1487384898284" expanded="true" signature="12759:12819" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="12829:13019" ph="/// The entry point of the program, where the program control starts and ends. ... " />
+            <marker date="1487384898284" expanded="true" signature="13066:13510" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="13092:13331" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="13166:13317" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="13376:13477" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="13519:13738" ph="/// Handles an incoming socket message from Discord. ... " />
+            <marker date="1487384898284" expanded="true" signature="13820:18554" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="13856:18448" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="14182:14592" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="14665:14788" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="14939:15122" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="15206:18226" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="15437:16378" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="16432:17070" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="17177:17824" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="17406:17623" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="17652:17801" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="17915:18208" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="18300:18434" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="18465:18544" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="18563:18712" ph="/// Converts the string to sentence case. ... " />
+            <marker date="1487384898284" expanded="true" signature="18772:19135" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="18795:18965" ph="/* var lc = Input.ToLower(); ... */" />
+            <marker date="1487384898284" expanded="true" signature="19144:19267" ph="/// Connects to Discord and sets up the heartbeat manager and payload manager. ... " />
+            <marker date="1487384898284" expanded="true" signature="19304:20286" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="20297:20380" ph="/// WebSocket extensions for sending payloads. ... " />
+            <marker date="1487384898284" expanded="true" signature="20414:21067" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="20429:20620" ph="/// Sends the payload. ... " />
+            <marker date="1487384898284" expanded="true" signature="20719:21061" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="20917:21020" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="21102:22921" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="21109:21192" ph="/// Discord API info such as the API base URL. ... " />
+            <marker date="1487384898284" expanded="true" signature="21217:21404" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="21232:21325" ph="/// Discord's base URL for REST API connections. ... " />
+            <marker date="1487384898284" expanded="true" signature="21409:21479" ph="/// Represents a Discord gateway. ... " />
+            <marker date="1487384898284" expanded="true" signature="21497:21606" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="21512:21573" ph="/// Gateway URL. ... " />
+            <marker date="1487384898284" expanded="true" signature="21611:21715" ph="/// A connection manager, for getting a gateway through WebRequest. ... " />
+            <marker date="1487384898284" expanded="true" signature="21743:22357" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="21758:21883" ph="/// Gets a new Gateway from Discord. ... " />
+            <marker date="1487384898284" expanded="true" signature="21926:22351" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="22362:22459" ph="/// A socket manager to create WebSockets with the base URL. ... " />
+            <marker date="1487384898284" expanded="true" signature="22483:22919" ph="{...}" />
+            <marker date="1487384898284" expanded="true" signature="22498:22558" ph="/// The socket. ... " />
+            <marker date="1487384898284" expanded="true" signature="22593:22731" ph="/// Creates a Socket. ... " />
+            <marker date="1487384898284" expanded="true" signature="22771:22913" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
